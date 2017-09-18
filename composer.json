@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "jetlee0797/wechat": "^3.3.3"
+        "jetlee0797/wechat": "^3.3.4"
     },
     "autoload": {
         "psr-4": {
